@@ -76,3 +76,16 @@
 
 - **Virtualização** - O ato de criar uma versão virtual em vez de uma física de um ambiente de computação, incluindo hardware de computador, sistema operacional, dispositivos de armazenamento etc.
 
+## *Tipos de Nuvem*
+
+### *Nuvem Pública*
+
+As nuvens públicas são a maneira mais comum de implantar a computação em nuvem. Os recursos de nuvem (como servidores e armazenamento) pertencem a um provedor de serviço de nuvem terceirizado, são operados por ele e entregues pela Internet. O Microsoft Azure é um exemplo de nuvem pública. Com uma nuvem pública, todo o hardware, software e outras infraestruturas de suporte são de propriedade e gerenciadas pelo provedor de nuvem. Em uma nuvem pública, você compartilha os mesmos dispositivos de hardware, de armazenamento e de rede com outras organizações ou “locatários” da nuvem. Você acessa serviços e gerencia sua conta usando um navegador da Web. As implantações de nuvem pública geralmente são usadas para fornecer email baseado na Web, aplicativos de escritório online, armazenamento e ambientes de desenvolvimento e teste.
+
+### *Nuvem Privada*
+
+Uma nuvem privada consiste em recursos de computação usados exclusivamente por uma única empresa ou organização. A nuvem privada pode estar localizada fisicamente no datacenter local da sua organização ou pode ser hospedada por um provedor de serviços terceirizado. Mas em uma nuvem privada, os serviços e a infraestrutura são sempre mantidos na rede privada e o hardware e o software são dedicados unicamente à sua organização. Dessa forma, com a nuvem privada é mais fácil para que a organização personalize seus recursos a fim de atender a requisitos de TI específicos. As nuvens privadas geralmente são usadas por órgãos governamentais, instituições financeiras e outras organizações de grande porte com operações críticas para os negócios, que buscam melhorar o controle sobre seu ambiente.
+
+### *Nuvem Híbrida*
+
+Geralmente chamadas de “o melhor dos dois mundos”, as nuvens híbridas combinam a infraestrutura local, ou seja, as nuvens privadas, com as nuvens públicas, permitindo que as organizações aproveitem as vantagens de ambas as opções. Em uma nuvem híbrida, dados e aplicativos podem ser movidos entre as nuvens públicas e privadas, o que oferece maior flexibilidade e mais opções de implantação. Por exemplo, você pode usar a nuvem pública para necessidades de volume grande e segurança mais baixa, como email baseado na Web, e a nuvem privada (ou outra infraestrutura local) para operações confidenciais críticas, como relatórios financeiros. Em uma nuvem híbrida, o “cloud bursting” também é uma opção. “Cloud bursting” ocorre quando um aplicativo ou recurso é executado na nuvem privada até que haja um pico de demanda (por exemplo, um evento sazonal como compras online ou envio de impostos) e, nesse ponto, a organização pode “estourar” para a nuvem pública para fazer uso de recursos de computação adicionais.
