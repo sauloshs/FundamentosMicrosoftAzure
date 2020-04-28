@@ -1,6 +1,5 @@
 # *Fundamentos Microsoft Azure*
 
-------
 
 ## *O que é computação em Nuvem*
 
