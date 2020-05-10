@@ -154,6 +154,10 @@ VM (Máquinas Virtuais) do Azure é um dos vários tipos de [recursos de computa
 - **App services** - É uma plataforma como um serviço (PaaS) que oferece para construir, implantar e dimensionar aplicativos web, mobile e API de nível corporativo.
 - **Functios** - Realizar ações de computação com base em um evento.
 
+## **Scale Sets**
+
+Os conjuntos de dimensionamento de máquinas virtuais do Azure lhe permitem criar e gerenciar um grupo de VMs idênticas e com balanceamento de carga. O número de instâncias de VM pode aumentar ou diminuir automaticamente em resposta à demanda ou a um agendamento definido. Os conjuntos de dimensionamento fornecem alta disponibilidade para seus aplicativos e permitem que você gerencie, configure e atualize um grande número de máquinas virtuais de forma centralizada. Com conjuntos de dimensionamento de máquinas virtuais, você pode criar serviços em grande escala para áreas como computação, big data e cargas de trabalho de contêiner.
+
 ## **Container services.**
 
 Containers é um ambiente de virtualização. No entanto, ao contrário das máquinas viruasi, você não gerencia um sistema operacional. Os contêineres são feitos para serem leves, e foram projetados para serem ccriados, dimensionados e parados dinamicamente. 
